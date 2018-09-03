@@ -4,7 +4,7 @@
 	"description": "Clears the Downloads list every 10 seconds to force the download bar to disappear when all downloads are complete",
 	"homepage_url": "https://github.com/sindresorhus/clear-downloads",
 	"manifest_version": 2,
-	"minimum_chrome_version": "36",
+	"minimum_chrome_version": "66",
 	"permissions": [
 		"browsingData"
 	],
