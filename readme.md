@@ -1,6 +1,6 @@
 # [<img src="logo.png" alt="Clear Downloads" width="350">][install]
 
-> Chrome extension - Clears the Downloads list every 10 seconds to force the download bar to disappear when all downloads are complete
+> Chrome extension - Clears the Downloads list every 10 seconds to force the download button to disappear when all downloads are complete
 
 ## [Install][install]
 
