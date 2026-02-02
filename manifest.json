@@ -2,11 +2,12 @@
 	"manifest_version": 3,
 	"name": "Clear Downloads",
 	"version": "1.2.0",
-	"description": "Clears the Downloads list every 10 seconds to force the download button to disappear when all downloads are complete",
+	"description": "Clears the Downloads list 10 seconds after the last download completes to force the download button to disappear",
 	"homepage_url": "https://github.com/sindresorhus/clear-downloads",
 	"minimum_chrome_version": "125",
 	"permissions": [
-		"browsingData"
+		"browsingData",
+		"downloads"
 	],
 	"icons": {
 		"128": "icon.png"
